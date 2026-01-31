@@ -5,7 +5,7 @@ The platform supports **Super Admin**, **Tenant Admin**, and **End Users**, enab
 
 This project is fully **Dockerized** and production-ready, with automated database migrations and seed data loading.
 
----
+
 
 ## 🚀 Tech Stack
 
